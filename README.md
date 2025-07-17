@@ -8,9 +8,9 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🎓 Estudo Desenvolvimento de Software na **Fatec**
+- 🎓 Estudo Análise e Desenvolvimento de Sistemas na **Fatec**
 - 📚 Sempre aprendendo com os cursos da **Alura**
-- 🧠 Interessado tanto em **Back-end** quanto em **Front-end**
+- 🧠 Interessado tanto em **Back-end**, **Front-end** e DevOps
 - 🎮 Quando não tô codando, provavelmente tô jogando ou ouvindo música
 
 ---
@@ -18,9 +18,29 @@
 ### 🚀 Tecnologias que curto trabalhar
 
 - **Front-end**: HTML, CSS, JavaScript, React
-- **Back-end**: Node.js, Express, APIs REST
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" weight=40 height=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" weight=40 height=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" weight=40 height=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" weight=40 height=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" weight=40 height=40/> 
+
+- **Back-end**: PHP, Java, Python
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" weight=40 height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" weight=40 height=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" weight=40 height=40/>
+-**Frameworks**: Laravel, SpringBoot
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" weight=40 height=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" weight=40 height=40/>
+          
+  
 - **Banco de Dados**: MySQL, MongoDB
-- **Outros**: Git, GitHub, VSCode
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" weight=40 height=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" weight=40 height=40/>
+
+-**DevOps**: Docker, AWS
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" weight=40 height=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" weight=40 height=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" weight=40 height=40/> 
+          
+
+- **Outros**: Git, GitHub
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" weight=40 height=40/> 
 
 ---
 
