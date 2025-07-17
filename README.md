@@ -37,7 +37,15 @@
   💻 Sempre tentando aprender algo novo e evoluir como dev!
 </div>
 
-![snake gif](https://github.com/vitaooo/vitaooo/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/vitaooo/vitaooo/blob/output/github-contribution-grid-snake.svg) -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitaooo/vitaooo/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitaooo/vitaooo/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/vitaooo/vitaooo/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 
 
