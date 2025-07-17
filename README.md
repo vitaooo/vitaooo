@@ -24,3 +24,5 @@
   
 </div>
 
+![Snake animation](https://github.com/vitaooo/vitaooo/blob/output/github-contribution-grid-snake.svg)
+
