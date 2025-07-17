@@ -37,6 +37,9 @@
   💻 Sempre tentando aprender algo novo e evoluir como dev!
 </div>
 
+![snake gif](https://github.com/vitaooo/vitaooo/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 
