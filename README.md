@@ -17,7 +17,7 @@
 
 ### 🚀 Tecnologias que curto trabalhar
 
-- **Front-end**: HTML, CSS, JavaScript, React
+- **Front-end**: HTML, CSS, JavaScript, React, Vue
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" weight=40 height=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" weight=40 height=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" weight=40 height=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" weight=40 height=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" weight=40 height=40/> 
 
@@ -35,12 +35,12 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" weight=40 height=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" weight=40 height=40/>
 
--**DevOps**: Docker, AWS
+-**DevOps**: Docker, AWS, Jenkins
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" weight=40 height=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" weight=40 height=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" weight=40 height=40/> 
           
 
-- **Outros**: Git, GitHub
+- **Outros**: Git
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" weight=40 height=40/> 
 
