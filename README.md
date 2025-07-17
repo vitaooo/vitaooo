@@ -24,7 +24,9 @@
 - **Back-end**: PHP, Java, Python
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" weight=40 height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" weight=40 height=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" weight=40 height=40/>
--**Frameworks**: Laravel, SpringBoot
+
+
+- **Frameworks**: Laravel, SpringBoot
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" weight=40 height=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" weight=40 height=40/>
           
